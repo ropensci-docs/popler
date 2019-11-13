@@ -1,0 +1,12 @@
+pandoc: '2.5'
+pkgdown: 1.6.1
+pkgdown_sha: ~
+articles:
+  introduction-to-popler: introduction-to-popler.html
+  popler-database-structure: popler-database-structure.html
+  vetting-popler: vetting-popler.html
+last_built: 2021-07-13T23:02Z
+urls:
+  reference: https://docs.ropensci.org/popler/reference
+  article: https://docs.ropensci.org/popler/articles
+
