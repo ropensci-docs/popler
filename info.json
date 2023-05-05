@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "65fd5a87f24322b64a7c1f9edeb805bfa8935a89",
+    "author": "Compagnoni <ac22qawo@idiv.de>",
+    "time": "2019-11-13 14:19:29",
+    "files": 1,
+    "merge": false,
+    "message": "Format structure_type_ as character\n"
+  },
+  "repo": "https://github.com/ropensci/popler",
+  "pkg": "popler"
+}
